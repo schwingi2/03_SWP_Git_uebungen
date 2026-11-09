@@ -154,7 +154,7 @@ Unter Windows PowerShell können Sie alternativ `Get-ChildItem -Force` verwenden
 
 Git unterscheidet drei zentrale Bereiche: das Arbeitsverzeichnis, die Staging Area und das lokale Repository.
 
-![Die drei Git-Bereiche](images/git-zonen.svg)
+![Die drei Git-Bereiche](images/generated-image.png)
 
 - **Arbeitsverzeichnis:** Hier bearbeiten Sie Dateien.
 - **Staging Area beziehungsweise Index:** Hier stellen Sie gezielt die Änderungen für den nächsten Commit zusammen.
